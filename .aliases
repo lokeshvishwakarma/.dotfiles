@@ -1,0 +1,14 @@
+alias ll='ls -la'
+alias q='exit'
+alias balias='vi ~/.aliases && source ~/.aliases'
+alias mobile_1="cd /Users/lvishwakarma/Zynga/GitCode/Wonka/mobile_1"
+alias mobile_2="cd /Users/lvishwakarma/Zynga/GitCode/Wonka/mobile_2"
+alias mobile_3="cd /Users/lvishwakarma/Zynga/GitCode/Wonka/mobile_3"
+alias mobile_4="cd /Users/lvishwakarma/Zynga/GitCode/Wonka/mobile_4"
+alias mlenv="source /Users/lvishwakarma/LOKI/ml_env/bin/activate"
+alias mv='/usr/bin/mv -v'
+alias 3='/usr/local/bin/python3'
+alias 2='/usr/bin/python2'
+alias wget='wget --continue'
+alias tree="tree -I '__pycache__|*pyc'"  # use pipe as delim
+alias tm='/usr/bin/tmux'
